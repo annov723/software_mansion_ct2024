@@ -1,0 +1,3 @@
+/home/phoenix/programming/c_plus/software_mansion2024/CMakeFiles/Main.dir
+/home/phoenix/programming/c_plus/software_mansion2024/CMakeFiles/edit_cache.dir
+/home/phoenix/programming/c_plus/software_mansion2024/CMakeFiles/rebuild_cache.dir
