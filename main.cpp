@@ -19,7 +19,9 @@ int main( void ){
     size_b++;
 
     //change further numbers form string to int and store them in arrays
-    int arr_a[size_a], arr_b[size_b];
+    int arr_a[size_a + 1], arr_b[size_b + 1];
+    arr_a[size_a] = NULL;
+    arr_b[size_b] = NULL;
     int counter = 0;
     for( int i = 1; i < a.length() - 1; i++ ){
         string num = "";
@@ -42,8 +44,7 @@ int main( void ){
     }
 
     string c = create_c( arr_a, arr_b );
-
-    //cout << "C=" << c << endl;
+    cout << "C=" << c << endl;
 
 
     return 0;

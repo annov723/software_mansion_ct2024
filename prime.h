@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <vector>
 
 using namespace std;
 
@@ -21,3 +22,13 @@ bool is_prime( int x );
  * @return string value - the sequence of ints created
 */
 string create_c( int arr_a[], int arr_b[] );
+
+/**
+ * @brief creates a string which contains all elements from sequence A (maintaining the order) except those, that are present in sequence B p times, where p is a prime number
+ * 
+ * @param arr_a reference to an array of A sequence elements
+ * @param arr_b reference to an array of B sequence elements
+ * 
+ * @return reference to an integers array with the sequence of ints created
+*/
+int *find_c( int arr_a[], int arr_b[] );
