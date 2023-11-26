@@ -18,11 +18,9 @@ Notes:
 2. You can choose any reasonable type present in your chosen language to represent the sequence. 
 3. Make sure the function signature is correct. 
 4. Write your own code to test primality.
-
-
-
-
-
+ 
+ 
+ 
 *using memory allocation and reallocation to create a result array (needed to pass the outcome to the main function)
 
 *converting string with commas input into separate int values to store them in an array
