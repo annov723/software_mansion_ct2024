@@ -1,5 +1,5 @@
 # software_mansion_ct2024
-Software Engineer Winter Internship 2024 – Coding task
+Software Engineer Winter Internship 2024 – coding task
 
 Task:
 
