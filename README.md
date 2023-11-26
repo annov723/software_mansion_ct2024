@@ -21,6 +21,8 @@ Notes:
 
 
 
+
+
 *using memory allocation and reallocation to create a result array (needed to pass the outcome to the main function)
 
 *converting string with commas input into separate int values to store them in an array
